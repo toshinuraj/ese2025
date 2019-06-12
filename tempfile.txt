@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 5 shinu shinu 4096 Jun  5 09:21 coding
+-rw-r--r-- 1 shinu shinu 1066 May 29 12:27 LICENSE
+-rw-r--r-- 1 shinu shinu   76 May 29 12:27 README.md
+-rw-r--r-- 1 shinu shinu    0 Jun 12 07:57 tempfile.txt
