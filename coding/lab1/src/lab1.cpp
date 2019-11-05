@@ -4,7 +4,7 @@
 using namespace std;
 
 int main()
- {Float
+ {
 	int i;
 	for(i=0;i<2;i++)
 	{
