@@ -10,6 +10,6 @@ int main()
 	{
 	cout << "Hello World of linux:-)" << endl;
 	}
-	return 0;;7
+	return 0;
 }
 
