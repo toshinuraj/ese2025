@@ -11,5 +11,6 @@ int main()
 	cout << "Hello World of linux:-)" << endl;
 	}
 	return 0;
+Get ch();
 }
 
